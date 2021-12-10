@@ -4,7 +4,7 @@
 
 <div>
   <p align="center">
-   <img src=https://miro.medium.com/max/1400/1*hpnzy5dNYtp1qC1MsN9cGQ.gif>
+   <img src=https://miro.medium.com/max/700/1*JQlQbx7gQOj2yWggID0xPg.gif>
   </p>
 </div>
 
