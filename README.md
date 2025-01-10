@@ -4,7 +4,6 @@ Este repositório apresenta uma implementação do algoritmo **Particle Swarm Op
 
 ## Principais Funcionalidades
 - **Configuração Personalizada**: Possibilidade de ajustar o número de partículas, iteracões, coeficientes de inércia, cognição e social.
-- **Visualização do Processo de Otimização**: Opção de plotar o progresso das partículas no espaço de solução (caso implementado).
 - **Flexibilidade em Funções de Avaliação**: Suporte para otimizar diferentes funções objetivo.
 
 ## O que é Particle Swarm Optimization (PSO)?
